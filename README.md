@@ -6,32 +6,36 @@ Overview:
 &nbsp;&nbsp;&nbsp;&nbsp;This analysis examines PyBer's ride share data. Specfically we will compare how the data differs by city and make recommendations to address disparities among the city types. We received two sets of data; rider and driver and merged the data based on the name of the City. This allowed us to collect the City name, date of ride share, the fare amount, ride id, the driver and the type of city. 
 
 
+&emsp;
+
 Results:
 
-The total rides per city type were:
+&nbsp;&nbsp;&nbsp;&nbsp;The total rides per city type were:
 &nbsp;&nbsp;&nbsp;&nbsp;Urban: 1,625
 &nbsp;&nbsp;&nbsp;&nbsp;Suburban: 625
 &nbsp;&nbsp;&nbsp;&nbsp;Rural: 125 
 
-The total number of drivers for each city type were:
+&nbsp;&nbsp;&nbsp;&nbsp;The total number of drivers for each city type were:
 &nbsp;&nbsp;&nbsp;&nbsp;Urban: 2,405
 &nbsp;&nbsp;&nbsp;&nbsp;Suburban: 490
 &nbsp;&nbsp;&nbsp;&nbsp;Rural: 78
 
-The total sum of fares for each city typer were: 
+&nbsp;&nbsp;&nbsp;&nbsp;The total sum of fares for each city typer were: 
 &nbsp;&nbsp;&nbsp;&nbsp;Urban: $39,854.38
 &nbsp;&nbsp;&nbsp;&nbsp;Suburban: $19,356.33
 &nbsp;&nbsp;&nbsp;&nbsp;Rural: $4,327.93
 
-The average fare per ride for each city type were:
+&nbsp;&nbsp;&nbsp;&nbsp;The average fare per ride for each city type were:
 &nbsp;&nbsp;&nbsp;&nbsp;Urban: $24.53
 &nbsp;&nbsp;&nbsp;&nbsp;Suburban: $30.97
 &nbsp;&nbsp;&nbsp;&nbsp;Rural: $34.62
 
-The average fare per driver for each city type were:
+&nbsp;&nbsp;&nbsp;&nbsp;The average fare per driver for each city type were:
 &nbsp;&nbsp;&nbsp;&nbsp;Urban: $16.57
 &nbsp;&nbsp;&nbsp;&nbsp;Suburban: $39.50
 &nbsp;&nbsp;&nbsp;&nbsp;Rural: $55.49
+
+&ensp;
 
 Summary:
 
